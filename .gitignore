@@ -1,0 +1,5 @@
+# Haskell/Xmonad build artifacts
+*.errors
+*.hi
+*.o
+xmonad-x86_64-linux
