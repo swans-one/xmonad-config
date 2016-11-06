@@ -24,3 +24,4 @@ References
 ----------
 
 - [John Goerzen's Configuration](https://wiki.haskell.org/Xmonad/Config_archive/JohnGoerzen's_Configuration)
+- [Xmonad Faq](https://wiki.haskell.org/Xmonad/Frequently_asked_questions)
